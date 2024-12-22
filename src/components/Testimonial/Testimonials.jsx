@@ -36,11 +36,7 @@ const Testimonials = () => {
   return (
  <Slider {...settings}>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>Our trip was highly organised by your team.Pick up and drop off very smooth with lovely drivers.would definately use your company again to book another holiday</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava01} className='w-25 h-25 rounded-2' alt="" />
@@ -51,11 +47,7 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>Absolutely amazing!Very sufficient and clear.Made having a large family holiday easy and stress free.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
@@ -66,11 +58,7 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>Everyone that helped me "and bind this Holiday booking where extremely helpful knowledgeable and quick with responses.I will be using this agency again.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
@@ -81,11 +69,7 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>Travel online were easy and quick to deal with.Very helpful and friendly.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
@@ -96,11 +80,7 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>Well organised on arrival and departure.we will approach/recommended Travel Online.....Yes</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />

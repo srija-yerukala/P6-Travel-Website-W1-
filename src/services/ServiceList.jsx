@@ -10,17 +10,17 @@ const servicesData =[
     {
         imgUrl :weatherImg,
         title : 'Calculate Weather',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        desc: 'Todays Weather app is a web application which tell the users about the weather details.',
     },
     {
         imgUrl :guideImg,
         title : 'Best Tour Guide',
-        desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        desc : 'Iam still processing all the fascinating information you shared.',
     },
     {
         imgUrl :customizationImg,
         title : 'Customization',
-        desc : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        desc : 'We created a modified itinerary and Ketan was exceptional at listening to our goals and arranging the tour to achieve them.',
     },
 ]
 const ServiceList = () => {

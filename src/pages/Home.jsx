@@ -22,12 +22,11 @@ const Home = () => {
         <Col  lg="6">
         <div className="hero__content">
           <div className="hero__subtitle d-flex align-items-center">
-            <Subtitle subtitle={'Know Before You Go'}/>
+            <Subtitle subtitle={'Take only memories , Leave only footprints'}/>
             <img src={worldImg} alt="" />
           </div>
-          <h1>Traveling opens the door to creating <span className="highlight">
-            memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi ut voluptatum quisquam error facilis eum rerum, ratione accusamus molestias fugiat consequatur repellendus pariatur numquam ea dolor! Eligendi sunt ab nostrum?</p>
+          <h1>The <span className="highlight">Beautiful</span> World Wait for You </h1>
+            <p>Traveling opens up the world in exciting ways.It allows you to discover new destinations and meet diverse people.You can enjoy different cuisines and explore various landmarks.</p>
         </div>
         </Col>
         <Col lg="2">
@@ -79,20 +78,20 @@ const Home = () => {
           <div className="experience__countent">
           <Subtitle subtitle={'Experience'}/> 
         <h2 >With our all experience <br/> we will serve you </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        <p>Travel agencies provide a variety of services to help people plan their trips.
           <br />
-           Quam veniam eveniet voluptate voluptatibus.</p>
+           provides travel and touris-related services to the general public.</p>
            <div className="counter__wrapper d-flex align-items-center gap-5">
             <div className="counter__box">
-              <span>12K+</span>
+              <span>14K+</span>
               <h6>Successful trip</h6>
             </div>
             <div className="counter__box">
-              <span>2K+</span>
+              <span>3K+</span>
               <h6>Regular clients</h6>
             </div>
             <div className="counter__box">
-              <span>15</span>
+              <span>13</span>
               <h6>Years experience</h6>
             </div>
            </div>

@@ -2,7 +2,7 @@ import React ,{useRef,useEffect}from 'react'
 import {Container, Row,Button} from 'reactstrap'
 import {Link, NavLink} from 'react-router-dom'
 
-import logo from '../../assets/images/logo.png'
+import logo from '../../assets/images/logo.png.jpg'
 import './header.css'
 const nav__links=[
   {
@@ -17,6 +17,14 @@ const nav__links=[
     path:'/tours',
     display:'Tours'
   },
+  {
+    path:'/services',
+    display:'Services'
+},
+{
+  path:'/clients',
+  display:'Clients'
+},
 
 ];
 const Header = () => {
@@ -72,9 +80,9 @@ useEffect(()=>{
     <Link to={'/register'}>Register</Link> 
     </Button>
 </div>
-<span className="mobile__menu">
+{/* <span className="mobile__menu">
 <i class="ri-menu-line"></i>
-</span>
+</span> */}
       </div>
     </div>
   </Row>
